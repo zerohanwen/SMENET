@@ -1,6 +1,6 @@
 # MVDSNET
 
-[![Powered by ](https://img.shields.io/badge/Powered%20by-JNU%20-orange.svg?style=flat&colorA=555&colorB=b42b2c)](https://www.jiangnan.edu.cn/)
+[![Powered by ](https://img.shields.io/badge/Powered%20by-JNU%20-orange.svg?style=flat&colorA=555&colorB=-8A2BE2)](https://www.jiangnan.edu.cn/)
 
 ## MVDSNET: A Multi-view Semantic Model for Multi-level Enzyme Function Prediction
 
@@ -14,15 +14,14 @@ Enzymes play a crucial role as ### catalysts. Comprehending biological ### and c
 However, these packages should be installed automatically when installing this codebase.
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ecpick)](https://pypi.org/project/ecpick/)
-![PyPI](https://img.shields.io/pypi/v/torch?label=torch)
-![PyPI](https://img.shields.io/pypi/v/biopython?label=biopython)
-![PyPI](https://img.shields.io/pypi/v/numpy?label=numpy)
-![PyPI](https://img.shields.io/pypi/v/scikit-learn?label=scikit-learn)
-![PyPI](https://img.shields.io/pypi/v/tqdm?label=tqdm)
-
+              
+![PyPI](https://img.shields.io/badge/scikitlearn-1.3.0-green)
+![PyPI](https://img.shields.io/badge/numpy-1.24.1-green)
+![PyPI](https://img.shields.io/badge/torch-2.0.1+cu117-green)
 ## Documentation
 
 ### embedding
+The enzyme sequence is embedded using ESM-2：https://github.com/facebookresearch/esm
 ```shell
 embedding
 ```
