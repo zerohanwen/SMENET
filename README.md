@@ -1,7 +1,7 @@
 # MVDSNET
 
 [![Powered by ](https://img.shields.io/badge/Powered%20by-***University%20-orange.svg?style=flat&colorA=555&colorB=-8A2BE2)]
-*(https://www.jiangnan.edu.cn/)*
+**
 ## MVDSNET: A Multi-view Semantic Model for Multi-level Enzyme Function Prediction
 
 Enzymes play a crucial role as ### catalysts. Comprehending biological ### and cellular ### is facilitated by the Enzyme Commission (EC), which matches protein ### to the biochemical reactions they catalyse through EC numbers.（A full introduction will be received in the paper as an update）
