@@ -29,4 +29,16 @@ embedding
 ```shell
 train
 ```
+### test
+#### task1
+```shell
+### use task1 model get yes or no Enzyme
+### output 1(enzyme) 2(noenzyme)
+```
+#### task2
+```shell
+### use task2 model get the EC number
+### output 1,34,56,102.,...,231
+### use final_EC_get/result_get_g.ipynb get the EC numbr: 1.1.1.1,2.3.3.1 ...
+```
 （A full Documentation will be received in the paper as an update）
